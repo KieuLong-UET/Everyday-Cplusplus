@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 
-    const int n = 1000;
+    const int n = 2000;
     bool data[n][n];
 
     cout << "TH1: voi cach duyet cot truoc, hang sau\n" <<endl<<
